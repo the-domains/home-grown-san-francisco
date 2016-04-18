@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Home Grown San Francisco
-datePublished: '2016-04-18T17:04:30.718Z'
-dateModified: '2016-04-18T17:04:21.936Z'
+datePublished: '2016-04-18T19:51:05.460Z'
+dateModified: '2016-04-18T17:04:40.027Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-18-home-grown-san-francisco.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-18-home-grown-san-francisco.md
-published: true
 url: home-grown-san-francisco/index.html
 _type: Article
 
