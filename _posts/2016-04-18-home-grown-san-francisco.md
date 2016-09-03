@@ -1,29 +1,27 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-starred: false
-keywords: []
-description: Home Grown San Francisco
-datePublished: '2016-04-18T19:51:05.460Z'
-dateModified: '2016-04-18T17:04:40.027Z'
-title: ''
-author: []
+datePublished: '2016-09-01T00:29:23.172Z'
 sourcePath: _posts/2016-04-18-home-grown-san-francisco.md
-published: true
+inFeed: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+hasPage: true
+keywords: []
+author: []
+via: {}
+dateModified: '2016-09-01T00:29:22.811Z'
+title: ''
+publisher: {}
+description: Home Grown San Francisco
+inLanguage: null
+inNav: false
+starred: false
 url: home-grown-san-francisco/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/95be5e4d-5e21-4c45-96c9-06b838ad4486.jpg)
+![Fort Point Chain](https://the-grid-user-content.s3-us-west-2.amazonaws.com/95be5e4d-5e21-4c45-96c9-06b838ad4486.jpg)
 
 **[Home Grown San Francisco][0]**
+
+Amazing to be able to see the sites and scenes that San Francisco provides.
 
 [0]: null
